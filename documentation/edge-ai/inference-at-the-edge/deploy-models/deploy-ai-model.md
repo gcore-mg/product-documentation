@@ -14,11 +14,11 @@ toc:
     --1--Step 8. Enter deployment details: "step-8-enter-deployment-details"
     --1--Step 9. Finalize deployment: "step-9-finalize-deployment"
 pageTitle: Deploy an AI model | Gcore
-pageDescription: 'Learn how to deploy an AI model on Gcore Inference at the Edge: Upload your custom model or deploy from our model catalog.'
+pageDescription: 'Learn how to deploy an AI model on Gcore Everywhere Inference: Upload your custom model or deploy from our model catalog.'
 ---
 # Deploy AI models in the Customer Portal
 
-With Gcore Inference at the Edge, you can use foundational open-source models from our AI model catalog or deploy a custom model by uploading a Docker container image.
+With Gcore Everywhere Inference, you can use foundational open-source models from our AI model catalog or deploy a custom model by uploading a Docker container image.
 
 ## Step 1. Select a model
 
@@ -28,7 +28,7 @@ This step will slightly differ based on whether you choose to deploy a custom mo
 
 ### Deploy model from the catalog
 
-1\. In the Gcore Customer Portal, navigate to **Cloud** > **Inference at the Edge**.
+1\. In the Gcore Customer Portal, navigate to **Cloud** > **Everywhere Inference**.
 
 2\. Open the **Overview** page.
 
@@ -46,7 +46,7 @@ This step will slightly differ based on whether you choose to deploy a custom mo
 
 ### Deploy a custom model
 
-1\. In the Gcore Customer Portal, navigate to **Cloud** > **Inference at the Edge**.
+1\. In the Gcore Customer Portal, navigate to **Cloud** > **Everywhere Inference**.
 
 2\. Open the **Overview** page.
 
