@@ -28,7 +28,7 @@ Whether you're working on natural language processing, computer vision, or other
 
 ## Step 2. Deploy the Hugging Face model on edge inference
 
-1\. In the <a href="https://accounts.gcore.com/reports/dashboard" target="_blank">Gcore Customer Portal</a>, click **Inference at the Edge**.
+1\. In the <a href="https://accounts.gcore.com/reports/dashboard" target="_blank">Gcore Customer Portal</a>, click **Everywhere Inference**.
 
 <img src="https://assets.gcore.pro/docs/cloud/inference-at-the-edge/iae-landing-page.png" alt="Overview page with options to create custom models or from catalog" width="80%">
 
